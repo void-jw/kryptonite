@@ -2,7 +2,7 @@
     "name": "Kryptonite",
     "displayName": "Kryptonite",
     "description": "A dark Kryptonited theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "void-jw",
     "galleryBanner": {
         "color": "#0a0126",
@@ -12,7 +12,7 @@
         "vscode": "^1.42.0"
     },
     "license": "MIT",
-    "icon": "kryptonite.png",
+    "icon": "logo.png",
     "categories": [
         "Themes"
     ],
