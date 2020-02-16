@@ -164,7 +164,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a1a1a1"
+				"foreground": "#cecece"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#00FF9C"
 			}
 		},
 		{
@@ -283,7 +283,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#cecece"
+				"foreground": "#ffff66"
 			}
 		},
 		{
@@ -299,7 +299,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#00f2ff"
+				"foreground": "#00a2ff"
 			}
 		},
 		{
