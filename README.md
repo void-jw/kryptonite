@@ -6,7 +6,7 @@
 
 ## Install
 
-To install it, search for "Kryptonite" in the extension marketplace or [Click here](https://marketplace.visualstudio.com/items?itemName=justin-wu.kryptonite)
+To install it, search for "Kryptonite" in the extension marketplace or [Click here](https://marketplace.visualstudio.com/items?itemName=void-jw.Kryptonite)
 
 ## Team
 
