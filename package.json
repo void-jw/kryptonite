@@ -1,0 +1,32 @@
+{
+    "name": "Kryptonite",
+    "displayName": "Kryptonite",
+    "description": "A dark Kryptonited theme",
+    "version": "0.0.1",
+    "publisher": "justin-wu",
+    "galleryBanner": {
+        "color": "#0a0126",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "license": "MIT",
+    "icon": "kryptonite.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kryptonite",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kryptonite-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/void-jw/kryptonite"
+    }
+}
