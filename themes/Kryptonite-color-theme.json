@@ -21,9 +21,9 @@
         "terminal.foreground": "#00FF9C",
         "debugToolBar.background": "#002212ec",
         "debugToolBar.border": "#00FF9C",
-		"editorLink.activeForeground": "#3d81fe",
-		"textLink.activeForeground": "#3d5afe",
-		"textLink.foreground": "#3d5afe",
+		"editorLink.activeForeground": "#00FF9C",
+		"textLink.activeForeground": "#00FF9C",
+		"textLink.foreground": "#00FF9C",
 		"button.background": "#00ff9da6",
 		"button.foreground": "#00140b",
 		"button.hoverBackground": "#00FF9C",
@@ -164,7 +164,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#cecece"
+				"foreground": "#cececece"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#00FF9C"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -248,7 +248,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00f2ff"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -324,7 +324,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#00FF9C"
+				"foreground": "#ffff66"
 			}
 		},
 		{
