@@ -61,9 +61,9 @@
 		"editor.selectionHighlightBackground": "#79fcb033",
         "editorCursor.foreground": "#00FF9C",
         "editorWarning.foreground": "#009550",
-		"editor.findMatchHighlightBackground": "#283593",
-		"editor.wordHighlightBackground": "#42557B",
-		"editor.wordHighlightStrongBackground": "#42557B",
+		"editor.findMatchHighlightBackground": "#009550",
+		"editor.wordHighlightBackground": "#009550",
+		"editor.wordHighlightStrongBackground": "#009550",
 		"editorGroup.background": "#141414",
 		"editorGroup.border": "#141414",
 		"editorGroupHeader.tabsBackground": "#141414",
@@ -299,7 +299,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#00a2ff"
+				"foreground": "#00f2ff"
 			}
 		},
 		{

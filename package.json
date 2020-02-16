@@ -2,7 +2,7 @@
     "name": "Kryptonite",
     "displayName": "Kryptonite",
     "description": "A dark theme made of green, crystalline material",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "publisher": "void-jw",
     "galleryBanner": {
         "color": "#0a0126",
@@ -12,10 +12,22 @@
         "vscode": "^1.13.0"
     },
     "license": "MIT",
-    "icon": "logo.png",
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"kryptonite",
+		"dark",
+		"theme",
+        "color-theme",
+        "green",
+        "science",
+        "fiction"
+    ],
+    "maintainers": [
+		"Justin Wu <justinwu880520@gmail.com>"
+	],
     "contributes": {
         "themes": [
             {
@@ -28,5 +40,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/void-jw/kryptonite"
-    }
+    },
+    "bugs": {
+		"url": "https://github.com/void-jw/kryptonite/issues"
+	}
+
 }
