@@ -1,3 +1,10 @@
+<p align="center">
+<img src="https://img.shields.io/vscode-marketplace/v/void-jw.kryptonite.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/d/void-jw.kryptonite.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/r/void-jw.kryptonite.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/void-jw/kryptonite.svg?style=for-the-badge&label=Stars"/>
+</p>
+
 # Kryptonite for [Visual Studio Code](http://code.visualstudio.com)
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
